@@ -1,4 +1,4 @@
-package guru.springframework.msscssm.domain.repository;
+package guru.springframework.msscssm.repository;
 
 import guru.springframework.msscssm.domain.Payment;
 import org.springframework.data.jpa.repository.JpaRepository;
